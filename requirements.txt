@@ -1,0 +1,6 @@
+rpaframework-recognition
+rpaframework
+robocorp-windows
+robocorp
+robotframework-mainframe3270
+getgauge  

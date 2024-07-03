@@ -1,0 +1,22 @@
+{
+    "history_button": {
+        "type": "image",
+        "path": ".images\\history-button.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAXCAIAAACeQxh6AAABi0lEQVR4nM2UIbLCMBCGw5unaS4QnYowg8FFtioWUZsBiWA4QY4QgWuY2l6grrIOkxkiFp0LZOACT3SGgRQKAvF+lWSzXzab3Uyu1yv6hn6+QvmXoN9onmVZ27YIIQCo67rrOu89QogQwjkviiJN049A3vsQQlVVTdOs1+ubJwBYazebjRBCSokxjhwn0atRSmezGWNsu90Od4cQtNbOOWNMZH2SI8aYUuq2L8uymwljrJRijFVV9SaixWJxuVz6MSGkbVtK6fl8juJaLpf7/f4+XzFoqCEIIVTXNQAopcau9onm83nXdfcrD6CmaT4EpWnal8Vz0G63G/pMp1NKKaX0PutDPdQRIQQAopI7Ho9DNwAghLyMiHNurR059iZrLef8JWi1WhljQgjjlBCCMaYoipcgQogQQms9DtJaCyGiDMTPL6V0zimlnsYVQlBKOeeklJEpBmGMjTFJkuR5XpYlAPTrAFCWZZ7nSZIMGw2NVLb3/nA4OOdOpxNCqO/kkW/kfYt8qP/31f4Bo+i2EkZcT34AAAAASUVORK5CYII=",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "history_button"
+    },
+    "clear_history_button": {
+        "type": "image",
+        "path": ".images\\7b3df297-bd1c-40c2-8ac9-07ef1606c6fe.png",
+        "screenshot": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAfCAIAAADiA+PYAAABS0lEQVR4nO2Uv4mEQBjFP4/LFDESEyNRJhADRTAw1MgqbMEKpgIbsAITMzM7kDFQsAEb8E8BXrAgi56yt+PJLuyL3vAe/Phm9GOmaYJL9HUN5iVJ8zxfRGIY5iISvT6kD+n/SEmS2LZt23aSJNv0+ywMISRN0yzLACAMQ9M0Lcu6LzBPb9g8z6MoerAcx/HzMwVBAABlWWKMD2oYY4RQEARU7yRJUtd1x52u61RVBcovgmXZYRiOO8MwsCxLS0IINU2zHD3PWxkAaJoGIURLAgCe5xe/3OSvV0pLMgyDELKXEkJc1z2H9LhoSY7jVFW1l1ZVpev6OaR7ybK8MgDAcdw5JE3T2ra9+aIoVqZtW03TziFxHDeO4146juNpMymKUtd13/fbqO/7uq5FUbwdaXe5IAgYY9/3t5PxPI8xXt7s+V3+V73P//SKpB8+eG670hwVQQAAAABJRU5ErkJggg==",
+        "screenResolutionWidth": 1920,
+        "screenResolutionHeight": 1080,
+        "screenPixelRatio": 1,
+        "confidence": 80,
+        "name": "clear_history_button"
+    }
+}
